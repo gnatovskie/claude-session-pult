@@ -62,3 +62,7 @@
 ```
 /plugin uninstall session-pult
 ```
+
+## Лицензия
+
+MIT OR Apache-2.0, на выбор. Полные тексты: [MIT](LICENSE-MIT) и [Apache-2.0](LICENSE-APACHE).
