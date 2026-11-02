@@ -1,5 +1,13 @@
 {
   "name": "claude-session-pult",
-  "owner": { "name": "denilis" },
-  "plugins": [{ "name": "session-pult", "source": "./" }]
+  "owner": {
+    "name": "GNATOVSKIE"
+  },
+  "plugins": [
+    {
+      "name": "session-pult",
+      "source": "./"
+    }
+  ],
+  "description": "Пульт сессий для Claude Code"
 }
